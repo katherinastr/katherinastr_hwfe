@@ -1,0 +1,32 @@
+body {
+    font-family: 'Times New Roman';
+    font-size: 14pt;
+    text-align: center; 
+    border: 0.5mm solid lightgrey;
+}
+#BGU {
+    width: 100%;
+    margin-top: 20mm;
+    font-size: 14pt;
+    font-weight: bold;
+    height: 90mm;
+}
+.t1 {
+    font-size: 14pt;
+}
+.t2 {
+    font-weight: bold;
+}
+#t3 {
+    text-align: left ;
+    margin-left: 110mm;
+    height: 50mm;
+    line-height: 0.2;
+}
+#ref {
+    height: 50mm;
+    line-height: 0.5ex;
+}
+.podch {
+    text-decoration: underline;
+}
