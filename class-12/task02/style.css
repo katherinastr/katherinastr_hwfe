@@ -1,0 +1,16 @@
+.heard {
+    background-color: gray;
+    width: 100px;
+    height: 100px;
+    border: 2px solid black;
+
+}
+a .heard:hover {
+    background-color:blue ;
+}
+a .heard:active {
+    background-color: rgba(255,00,0,0.3);
+}
+a:visited .heard {
+    background-color: rgba(255,00,0,1);
+}
